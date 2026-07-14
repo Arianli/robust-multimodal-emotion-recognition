@@ -219,3 +219,10 @@ __marimo__/
 
 .idea/
 *.joblib
+
+# Local datasets and generated media
+data/raw/
+data/processed/
+*.tar.gz
+*.mp4
+*.wav
