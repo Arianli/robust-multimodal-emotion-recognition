@@ -1,0 +1,17 @@
+{
+  "model": "frozen_sentence_embedding_logistic_regression",
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "batch_size": 64,
+  "train_samples": 9989,
+  "dev": {
+    "accuracy": 0.4715960324616772,
+    "macro_f1": 0.37639545057444834,
+    "weighted_f1": 0.5020443726520639
+  },
+  "test": {
+    "accuracy": 0.47203065134099614,
+    "macro_f1": 0.36919172434110326,
+    "weighted_f1": 0.5102019660263688
+  }
+}
