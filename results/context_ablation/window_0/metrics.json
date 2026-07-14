@@ -1,0 +1,14 @@
+{
+  "model": "context_tfidf_logistic_regression",
+  "context_window": 0,
+  "dev": {
+    "accuracy": 0.40216411181244366,
+    "macro_f1": 0.333887486950775,
+    "weighted_f1": 0.41369876570031244
+  },
+  "test": {
+    "accuracy": 0.4134099616858238,
+    "macro_f1": 0.31636048748534945,
+    "weighted_f1": 0.43242799860268594
+  }
+}
