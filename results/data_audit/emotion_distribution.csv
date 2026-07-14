@@ -1,0 +1,8 @@
+Emotion,train,dev,test
+anger,1109,153,345
+disgust,271,22,68
+fear,268,40,50
+joy,1743,163,402
+neutral,4710,470,1256
+sadness,683,111,208
+surprise,1205,150,281

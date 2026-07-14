@@ -1,0 +1,75 @@
+{
+  "splits": {
+    "train": {
+      "rows": 9989,
+      "dialogues": 1038,
+      "speakers": 260,
+      "missing_values": 0,
+      "duplicate_records": 0,
+      "average_utterances_per_dialogue": 9.623314065510597,
+      "median_utterances_per_dialogue": 9.0,
+      "maximum_utterances_per_dialogue": 24,
+      "emotion_counts": {
+        "anger": 1109,
+        "disgust": 271,
+        "fear": 268,
+        "joy": 1743,
+        "neutral": 4710,
+        "sadness": 683,
+        "surprise": 1205
+      }
+    },
+    "dev": {
+      "rows": 1109,
+      "dialogues": 114,
+      "speakers": 47,
+      "missing_values": 0,
+      "duplicate_records": 0,
+      "average_utterances_per_dialogue": 9.728070175438596,
+      "median_utterances_per_dialogue": 10.0,
+      "maximum_utterances_per_dialogue": 23,
+      "emotion_counts": {
+        "anger": 153,
+        "disgust": 22,
+        "fear": 40,
+        "joy": 163,
+        "neutral": 470,
+        "sadness": 111,
+        "surprise": 150
+      }
+    },
+    "test": {
+      "rows": 2610,
+      "dialogues": 280,
+      "speakers": 100,
+      "missing_values": 0,
+      "duplicate_records": 0,
+      "average_utterances_per_dialogue": 9.321428571428571,
+      "median_utterances_per_dialogue": 9.0,
+      "maximum_utterances_per_dialogue": 33,
+      "emotion_counts": {
+        "anger": 345,
+        "disgust": 68,
+        "fear": 50,
+        "joy": 402,
+        "neutral": 1256,
+        "sadness": 208,
+        "surprise": 281
+      }
+    }
+  },
+  "cross_split_overlap_counts": {
+    "train_vs_dev": {
+      "exact_clip_overlaps": 2,
+      "exact_dialogue_overlaps": 0
+    },
+    "train_vs_test": {
+      "exact_clip_overlaps": 3,
+      "exact_dialogue_overlaps": 0
+    },
+    "dev_vs_test": {
+      "exact_clip_overlaps": 0,
+      "exact_dialogue_overlaps": 0
+    }
+  }
+}
