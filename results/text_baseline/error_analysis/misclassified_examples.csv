@@ -1,0 +1,125 @@
+Dialogue_ID,Utterance_ID,Speaker,Utterance,Emotion,Predicted_Emotion,Word_Count
+240,12,Cecilia,I-I-I’m leaving the show?,surprise,neutral,4
+173,6,Monica,Okay!,surprise,neutral,1
+174,8,Ross,Who’s that?,surprise,neutral,2
+12,5,Ross,Okay-okay!,anger,neutral,1
+210,0,Monica,"Chandler, we said we would meet at the coffeehouse at six.",anger,neutral,11
+45,6,Phoebe,"Oh but Mon, if you touch my guitar again I’ll have to pound on you for a little bit.",anger,neutral,19
+132,13,Joey,It is absolutely essential that you tell me what room the man my assistant described is staying in.,neutral,anger,18
+18,1,Joey,"All right, then you'd better show me some of that too then.",neutral,anger,12
+175,19,Tag,You wanna go down to the office right now?,neutral,anger,9
+120,10,Chandler,"Okay so you mean no as in, ""Gee Chandler, what an interesting idea. Let’s discuss it before we reject it completely.""",joy,neutral,21
+67,3,Phoebe,It's okay to laugh right?,joy,neutral,5
+185,3,Joey,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",joy,neutral,16
+262,7,Monica,"Oh, these are gonna go in my permanent collection.",joy,anger,9
+92,3,Chandler,Laundry. Huh. Is that my new nickname?,joy,anger,7
+193,1,Ross,I’m on time!,joy,anger,3
+1,5,Joey,"Let's—  I was just—yeah, right.",joy,fear,5
+129,0,Director,"All right, let's do it!",joy,fear,5
+109,0,Lorraine,"You know, ever since I was little, I've been able to pick up quarters with my toes.",joy,fear,17
+173,11,Monica,"No-no, it’s not okay!",sadness,fear,4
+191,0,Chandler,"Eh..., I don’t, I don’t know.",sadness,fear,6
+2,2,Ross,"Uhh, yes I did but there isn't. Okay, here we go.",sadness,fear,11
+203,0,Bonnie,I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.,anger,joy,24
+244,8,Chandler,"Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.",anger,joy,25
+17,10,Monica,And I’m appalled for you by the way.,anger,joy,8
+27,1,Phoebe,Hi.,neutral,joy,1
+73,6,Phoebe,Hi.,neutral,joy,1
+246,5,Tour Guide,"Hey, Peter!",neutral,joy,2
+11,1,Rachel,I mean there’s no way Joey’s gonna make it in time.,fear,sadness,11
+105,1,Phoebe,No! No!! It’s me! It’s me! I-I didn’t want to make any noise!,fear,sadness,13
+3,1,Ross,"No wait, look. Look! I'm sorry, it's just I've never even",fear,sadness,11
+174,11,Ross,Is that Mark?,neutral,surprise,3
+25,14,Monica,What-what was it you were gonna tell us?,neutral,surprise,8
+13,0,Roger,Oh.,neutral,surprise,1
+4,0,Phoebe,Ohh!,surprise,sadness,1
+29,1,Chandler,"Oh, I didn't factor in the room tax.",surprise,sadness,8
+119,6,Chandler,"Oh come on, by age seven kids have already seen orgies.  Was it just me?!",surprise,sadness,15
+257,1,Chandler,You know it?,surprise,joy,3
+125,22,Joey,Why would they do that?! It was a good show right?!,surprise,joy,11
+123,6,Monica,What?! You said he was sweet!,surprise,joy,6
+89,1,Mike,This works with any milk carton.,neutral,disgust,6
+258,4,Joey,"Y'know, Joey makes me sound like I'm, I dunno, this big.",neutral,disgust,11
+271,5,Chandler,"Yeah, like that thought never entered my mind.",neutral,disgust,8
+227,0,Monica,"Okay, Ben, I won’t tell your daddy that you had ice cream for dinner, if you don’t tell about our little bonking incident.",fear,anger,23
+29,6,Chandler,"Look, we have enough, just walk away.",fear,anger,7
+175,4,Rachel,"No seriously, y’know the contracts I gave you, did you overnight them?",fear,anger,12
+17,3,Phoebe,Ewww! Oh! It’s the Mattress King!,disgust,surprise,6
+180,9,Chandler,"I mean,... how needy is that?",disgust,surprise,6
+4,6,Monica,"Oh wait, Joey, you can’t go like that! You stink!",disgust,surprise,10
+160,1,Monica,"I mean, all I’m asking for is just a little emotion!",anger,disgust,11
+111,10,Chandler,Yeah. No. No...,anger,disgust,3
+5,0,Chandler,You’re coming on to the entire room!  I’m Chandler.,anger,disgust,9
+12,14,Chandler,I don’t know.,neutral,fear,3
+253,3,Chandler,"Oh, y’know what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.",neutral,fear,23
+65,2,Chandler,"Okay uh, for now, temporarily, you can call me, Clint.",neutral,fear,10
+127,5,Ross,"I’m sorry I had to take such drastic measures to make my point, but I—look, I just want you guys to be safe.",neutral,sadness,23
+208,6,Joey,"Rach come on, what?",neutral,sadness,4
+9,14,Fireman #1,"So uh, you’re not gonna be able to live here for a while, you ladies have a place to stay?",neutral,sadness,20
+7,4,Monica,"So you can like, bite, and pull people’s hair and stuff?",surprise,anger,11
+211,3,Phoebe,Joey!,surprise,anger,1
+173,1,Monica,No!,surprise,anger,1
+253,2,Drew,"Ahh, I just got out of a big relationship, I’m not looking for any thing serious.",sadness,anger,16
+160,10,Joey,Come on!,sadness,anger,2
+215,10,Phoebe,"Okay, now’s not the time Joey. All right? You can yell at me tomorrow.",sadness,anger,14
+266,8,Ross,I just want this to be  about what it is!,joy,sadness,10
+126,2,Rachel,I feel like we’re the only two people in the world.  Oops. Sorry.,joy,sadness,13
+107,2,Rachel,"Do you still have that, um, Navy uniform?",joy,sadness,8
+99,9,Chandler,"Noo!  Oh, it’s okay, it’s okay, baby, baby, baby.",fear,joy,9
+231,9,Joey,"Okay, good, good, good, ‘cause, good, ‘cause I was kinda having second thoughts too.",fear,joy,14
+119,5,Monica,But Ben is coming over tonight and he can’t see this.,fear,joy,11
+223,0,Monica,"Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don’t worry about it!",sadness,neutral,21
+240,15,Joey,"Oh uh, one of the writers.",sadness,neutral,6
+33,0,Phoebe,"Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!",sadness,neutral,15
+144,10,Monica,What—Why wouldn’t you want me at your wedding?,anger,surprise,8
+72,2,Rachel,Okay wait!,anger,surprise,2
+41,2,Rachel,I can’t believe it! He still hasn’t called.,anger,surprise,8
+150,4,Janice,Good-bye Chandler Bing.,sadness,joy,3
+199,5,Monica,"Ohh, sweetie!  Hey, I bet you anything that he’s gonna call you again.",sadness,joy,13
+9,11,Rachel,Everything’s ruined. My bed. My clothes. Look at my favorite blue sweater.,sadness,joy,12
+155,0,Ross,"I mean, I don’t feel like I even have a girlfriend anymore.",anger,sadness,12
+72,9,Rachel,And if you bring in one woman and she has her baby before me I’m going to sue you!,anger,sadness,19
+34,14,Rachel,I mean sex does not have to be a big deal!,anger,sadness,11
+260,1,Rachel,I didn’t!,joy,surprise,2
+136,0,Rachel,Oh my God! That is so good!,joy,surprise,7
+215,2,Phoebe,That’s really beautiful. What does it mean?,joy,surprise,7
+12,12,Chandler,That’s laughter.,joy,disgust,2
+28,14,Phoebe,Oh yeah! I-I would like that.,joy,disgust,6
+104,0,Joey,"Excellent! Excellent! And uh, finally, are you into any weird stuff y’know, sexually?",joy,disgust,13
+246,2,Joey,That’s crazy.,surprise,disgust,2
+198,4,Chandler,"What are you still doing here? She just broke up with the guy, it's time for you to swoop in!",surprise,disgust,20
+13,3,Phoebe,"You're not? See, that's why you're so great!",surprise,disgust,8
+17,4,Chandler,Don’t look honey. Change the channel! Change the channel!,disgust,anger,9
+254,14,Ross,"That's nice. Get out Let's go, come on.",disgust,anger,8
+237,3,Joey,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",disgust,anger,17
+143,8,Chandler,A hundred and forty-five pounds.,disgust,neutral,5
+230,8,Phoebe,Ewww!,disgust,neutral,1
+17,14,Ross,"Yeah, I’m gonna go to a doctor who went to school in a mini-mall.",disgust,neutral,14
+200,0,Joey,I don’t get it!,surprise,fear,4
+41,8,Phoebe,Oh no!,surprise,fear,2
+166,2,Chandler,"Joey, you have to tell her what’s going on! And what did it  look like?!",surprise,fear,15
+153,11,Chandler,"Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",fear,neutral,21
+182,4,Phoebe,Help!,fear,neutral,1
+29,10,Chandler,"Ok, go quick!",fear,neutral,3
+32,10,Phoebe Sr,"Oh, poor Lily.",sadness,surprise,3
+53,7,Rachel,Oh my God! We are throwing the most depressing baby shower ever!,sadness,surprise,12
+101,2,Phoebe,"Hey, why are you mopping your ceiling?",sadness,surprise,7
+73,0,Joey,"Ross-Ross-Ross-Ross! Stay away from that guy , and that guy . And that one—Dude! They’re all huge!",fear,disgust,17
+37,3,Joey,And you got a 'hate' from that?! Your taking a big leap there...,fear,disgust,13
+169,6,Phoebe,I can and I will!,anger,fear,5
+231,8,Chandler,"If they can’t find a home for her, they kill her! And I’m not gonna let that happen to little Yasmine!",anger,fear,21
+37,6,Joey,But what does that gonna do...,anger,fear,6
+41,6,Rachel,"No, I don’t.",disgust,fear,3
+88,2,Joey,"You guys, can we please not watch this all right.",disgust,fear,10
+237,5,Chandler,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?",disgust,fear,17
+58,9,Chandler,"Because you’re still seeing him and uh, he’s a good guy.",sadness,disgust,11
+160,12,Joey,No more J-man and Channie’s!,sadness,disgust,5
+47,0,Joey,"God, it’s gonna so weird like when I come home and you’re not here.",sadness,disgust,14
+96,7,Chandler,"C'mon, we're roommates!  My eyes!! My eyes!!",disgust,joy,7
+86,5,Ross,It tastes like feet!,disgust,joy,4
+100,14,Phoebe,Why are there only two of you?,fear,surprise,7
+100,18,Phoebe,Where are you Leslie?,fear,surprise,4
+205,3,Monica,Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!,fear,surprise,18
+163,1,Monica,"Oh, come on.",disgust,sadness,3
+205,6,Chandler,I feel violated. And not in a good way.,disgust,sadness,9
+130,1,Ross,"Ohh, God, nobody likes him, and he’s so cheap, he’d never fly to London in a million years.",disgust,sadness,18

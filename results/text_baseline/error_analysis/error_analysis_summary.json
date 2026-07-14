@@ -1,0 +1,94 @@
+{
+  "total_predictions": 2610,
+  "correct_predictions": 1046,
+  "incorrect_predictions": 1564,
+  "accuracy": 0.40076628352490423,
+  "top_confusion_pairs": [
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "anger",
+      "Count": 199,
+      "Percent_of_All_Errors": 0.1272378516624041
+    },
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "joy",
+      "Count": 184,
+      "Percent_of_All_Errors": 0.11764705882352941
+    },
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "sadness",
+      "Count": 119,
+      "Percent_of_All_Errors": 0.07608695652173914
+    },
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "surprise",
+      "Count": 110,
+      "Percent_of_All_Errors": 0.07033248081841433
+    },
+    {
+      "Emotion": "joy",
+      "Predicted_Emotion": "neutral",
+      "Count": 92,
+      "Percent_of_All_Errors": 0.058823529411764705
+    },
+    {
+      "Emotion": "anger",
+      "Predicted_Emotion": "neutral",
+      "Count": 75,
+      "Percent_of_All_Errors": 0.0479539641943734
+    },
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "fear",
+      "Count": 72,
+      "Percent_of_All_Errors": 0.04603580562659847
+    },
+    {
+      "Emotion": "neutral",
+      "Predicted_Emotion": "disgust",
+      "Count": 49,
+      "Percent_of_All_Errors": 0.03132992327365729
+    },
+    {
+      "Emotion": "surprise",
+      "Predicted_Emotion": "neutral",
+      "Count": 45,
+      "Percent_of_All_Errors": 0.02877237851662404
+    },
+    {
+      "Emotion": "anger",
+      "Predicted_Emotion": "sadness",
+      "Count": 42,
+      "Percent_of_All_Errors": 0.026854219948849106
+    }
+  ],
+  "lowest_recall_classes": [
+    {
+      "Emotion": "fear",
+      "Support": 50,
+      "Correct": 8,
+      "Errors": 42,
+      "Recall": 0.16,
+      "Error_Rate": 0.84
+    },
+    {
+      "Emotion": "disgust",
+      "Support": 68,
+      "Correct": 13,
+      "Errors": 55,
+      "Recall": 0.19117647058823528,
+      "Error_Rate": 0.8088235294117647
+    },
+    {
+      "Emotion": "anger",
+      "Support": 345,
+      "Correct": 109,
+      "Errors": 236,
+      "Recall": 0.3159420289855073,
+      "Error_Rate": 0.6840579710144927
+    }
+  ]
+}
