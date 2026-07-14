@@ -1,0 +1,67 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "classifier": "results\\sentence_embedding_baseline\\embedding_classifier.joblib",
+  "seed": 42,
+  "results": [
+    {
+      "word_dropout_rate": 0.0,
+      "remaining_word_fraction": 1.0,
+      "accuracy": 0.47203065134099614,
+      "macro_f1": 0.36919172434110326,
+      "weighted_f1": 0.5102019660263688,
+      "accuracy_drop": 0.0,
+      "macro_f1_drop": 0.0,
+      "weighted_f1_drop": 0.0
+    },
+    {
+      "word_dropout_rate": 0.1,
+      "remaining_word_fraction": 0.9,
+      "accuracy": 0.47011494252873565,
+      "macro_f1": 0.35617254984124835,
+      "weighted_f1": 0.5050295034037774,
+      "accuracy_drop": 0.001915708812260497,
+      "macro_f1_drop": 0.013019174499854902,
+      "weighted_f1_drop": 0.005172462622591412
+    },
+    {
+      "word_dropout_rate": 0.3,
+      "remaining_word_fraction": 0.7,
+      "accuracy": 0.4754789272030651,
+      "macro_f1": 0.3445562953167864,
+      "weighted_f1": 0.49845357880446944,
+      "accuracy_drop": -0.0034482758620689724,
+      "macro_f1_drop": 0.02463542902431687,
+      "weighted_f1_drop": 0.011748387221899359
+    },
+    {
+      "word_dropout_rate": 0.5,
+      "remaining_word_fraction": 0.5,
+      "accuracy": 0.47126436781609193,
+      "macro_f1": 0.31029261893769305,
+      "weighted_f1": 0.47910821387164165,
+      "accuracy_drop": 0.0007662835249042099,
+      "macro_f1_drop": 0.0588991054034102,
+      "weighted_f1_drop": 0.03109375215472715
+    },
+    {
+      "word_dropout_rate": 0.7,
+      "remaining_word_fraction": 0.30000000000000004,
+      "accuracy": 0.47701149425287354,
+      "macro_f1": 0.2814316941972007,
+      "weighted_f1": 0.45867726872772646,
+      "accuracy_drop": -0.004980842911877392,
+      "macro_f1_drop": 0.08776003014390255,
+      "weighted_f1_drop": 0.05152469729864234
+    },
+    {
+      "word_dropout_rate": 1.0,
+      "remaining_word_fraction": 0.0,
+      "accuracy": 0.4812260536398467,
+      "macro_f1": 0.0928238858916562,
+      "weighted_f1": 0.3126849060381001,
+      "accuracy_drop": -0.009195402298850575,
+      "macro_f1_drop": 0.27636783844944707,
+      "weighted_f1_drop": 0.19751705998826868
+    }
+  ]
+}
