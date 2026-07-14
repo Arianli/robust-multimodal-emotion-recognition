@@ -1,0 +1,37 @@
+{
+  "model": "tfidf_logistic_regression",
+  "labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "tfidf_logistic_regression": {
+    "dev": {
+      "accuracy": 0.40937781785392247,
+      "macro_f1": 0.336407828148357,
+      "weighted_f1": 0.42435692706843536
+    },
+    "test": {
+      "accuracy": 0.40076628352490423,
+      "macro_f1": 0.30793776056656175,
+      "weighted_f1": 0.4215728128728594
+    }
+  },
+  "majority_baseline": {
+    "label": "neutral",
+    "dev": {
+      "accuracy": 0.4238052299368801,
+      "macro_f1": 0.08504478422147833,
+      "weighted_f1": 0.2522969703234118
+    },
+    "test": {
+      "accuracy": 0.4812260536398467,
+      "macro_f1": 0.0928238858916562,
+      "weighted_f1": 0.3126849060381001
+    }
+  }
+}
